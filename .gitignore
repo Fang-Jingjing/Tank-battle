@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+#Solution and Projects
+*.sln
+*.csproj

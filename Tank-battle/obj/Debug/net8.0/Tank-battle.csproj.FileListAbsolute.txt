@@ -1,0 +1,15 @@
+/workspaces/Tank-battle/Tank-battle/bin/Debug/net8.0/Tank-battle
+/workspaces/Tank-battle/Tank-battle/bin/Debug/net8.0/Tank-battle.deps.json
+/workspaces/Tank-battle/Tank-battle/bin/Debug/net8.0/Tank-battle.runtimeconfig.json
+/workspaces/Tank-battle/Tank-battle/bin/Debug/net8.0/Tank-battle.dll
+/workspaces/Tank-battle/Tank-battle/bin/Debug/net8.0/Tank-battle.pdb
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.AssemblyInfoInputs.cache
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.AssemblyInfo.cs
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.csproj.CoreCompileInputs.cache
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.sourcelink.json
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.dll
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/refint/Tank-battle.dll
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.pdb
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/Tank-battle.genruntimeconfig.cache
+/workspaces/Tank-battle/Tank-battle/obj/Debug/net8.0/ref/Tank-battle.dll
